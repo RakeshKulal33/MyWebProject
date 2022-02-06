@@ -1,0 +1,90 @@
+
+  .main{
+    width: 100%;
+    height: 400px;
+    background: url(officeimg.jpg);
+    background-attachment: scroll;
+    background-position: center;
+    padding-left: 50px;
+}
+.btn{
+    font-size: small;
+    padding:10px 20px 10px 20px;
+     margin-top:10px;
+     margin-right:50px ;
+}
+.header-text{
+    color: whitesmoke;
+    padding-top: 50px;
+    text-align: center;
+}
+
+#second-btn{
+    font-size: small;
+    margin-left: 40px;
+    padding-left: 120px;
+    padding-right:120px;
+}
+div.bgc{
+    background-color:whitesmoke;
+}
+div.bgc1{ 
+    width: 100%;
+    height: 400px;
+    background: url(officeimg.jpg);
+    background-attachment: scroll;
+    background-position: center;
+    padding-left: 50px;
+}
+div.text-form{
+  width: 40%;
+  height: 300px;
+  display: inline-block;
+  justify-content: space-between;
+  margin: 50px;
+  padding: 20px;
+}
+h3{
+    font-size: small;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: start;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.card-content{
+  margin-top: -80px;
+  width: 20px;
+}
+.card-img-bottom {
+  color: #fff;
+  height: 20rem;
+  background: url(natimg.jpg) center no-repeat;
+  background-size: cover;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+
+footer {
+  background:rgb(175, 163, 163);
+}
