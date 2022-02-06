@@ -49,8 +49,8 @@ h3{
 }
 .fa {
   padding: 20px;
-  font-size: 30px;
-  width: 30px;
+  font-size: 50px;
+  width: 50px;
   text-align: start;
   text-decoration: none;
   border-radius: 50%;
@@ -88,3 +88,17 @@ a:hover{
 footer {
   background:rgb(175, 163, 163);
 }
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
