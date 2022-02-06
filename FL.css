@@ -61,7 +61,7 @@ h3{
 }
 
 .fa-facebook {
-  background: #3B5998;
+  background: rgb(36, 160,237);
   color: white;
 }
 .card-content{
@@ -86,19 +86,20 @@ a:hover{
 
 
 footer {
-  background:rgb(175, 163, 163);
+  background:white;
 }
 .fa-twitter {
-    background: #55ACEE;
+    background: rgb(36, 160,237);
     color: white;
   }
   
   .fa-instagram {
-    background: #125688;
+    background:rgb(36, 160,237);
     color: white;
   }
   
   .fa-linkedin {
-    background: #007bb5;
+    background: rgb(36, 160,237);
+    box-shadow: gray;
     color: white;
   }
